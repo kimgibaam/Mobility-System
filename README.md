@@ -12,4 +12,7 @@
 ![image](https://user-images.githubusercontent.com/53115254/93467776-120c6900-f929-11ea-9a28-9bb5cc80799e.png)
 ![image](https://user-images.githubusercontent.com/53115254/93469687-cad3a780-f92b-11ea-97da-f24fb6cb600d.png)
 
+## Big data system
+- Using the KNN model, we extracted areas with high service usage
 
+![image](https://user-images.githubusercontent.com/53115254/93469847-04a4ae00-f92c-11ea-9948-29906e73008b.png)
