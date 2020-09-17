@@ -9,5 +9,6 @@
 
 ## Application Description
 
-![image](https://user-images.githubusercontent.com/53115254/93467690-f6a15e00-f928-11ea-91a1-70bb10b9fa93.png)
+![image](https://user-images.githubusercontent.com/53115254/93467776-120c6900-f929-11ea-9a28-9bb5cc80799e.png)
+
 
