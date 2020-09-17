@@ -8,6 +8,4 @@
 
 
 ## Application Description
-![image](https://user-images.githubusercontent.com/53115254/93464892-eedfba80-f924-11ea-9009-87bdb3389df2.png)
-
-![image](https://user-images.githubusercontent.com/53115254/93465003-20588600-f925-11ea-9804-6b5b323e430f.png)
+![image](https://user-images.githubusercontent.com/53115254/93467326-95798a80-f928-11ea-82b7-f3477e64d63b.png)
