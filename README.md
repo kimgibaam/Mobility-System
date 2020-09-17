@@ -10,4 +10,5 @@
 ## Application Description
 
 ![image](https://user-images.githubusercontent.com/53115254/93467776-120c6900-f929-11ea-9a28-9bb5cc80799e.png)
-![image](https://user-images.githubusercontent.com/53115254/93469309-497c1500-f92b-11ea-91d0-eef6111a5384.png)
+![image](https://user-images.githubusercontent.com/53115254/93469434-792b1d00-f92b-11ea-857a-63e7dda32a67.png)
+
