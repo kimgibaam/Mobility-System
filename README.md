@@ -10,7 +10,8 @@
 ## Application Description
 
 ![image](https://user-images.githubusercontent.com/53115254/93467776-120c6900-f929-11ea-9a28-9bb5cc80799e.png)
-![image](https://user-images.githubusercontent.com/53115254/93469687-cad3a780-f92b-11ea-97da-f24fb6cb600d.png)
+![image](https://user-images.githubusercontent.com/53115254/93470590-1aff3980-f92d-11ea-82b5-5e360b0b0feb.png)
+
 
 ## Big data system
 - Using the KNN model, we extracted areas with high service usage
